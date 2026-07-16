@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1291)"><rect width="1000" height="1000" fill="#000000"></rect><g transform="matrix(1.8,0,0,1.8,50,50)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500"><defs>
+    <linearGradient id="tech-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff"></stop>   <stop offset="50%" stop-color="#3b82f6"></stop>  <stop offset="100%" stop-color="#a855f7"></stop> </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  <clipPath id="SvgjsClipPath1291"><rect width="1000" height="1000" x="0" y="0" rx="250" ry="250"></rect></clipPath></defs><g fill="none" stroke="url(#tech-gradient)" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" transform=" translate(-125,-125) scale(1.5)">
+    <path d="M 230,190 
+             C 230,145 130,145 130,200 
+             C 130,250 230,250 230,300 
+             C 230,355 130,355 130,310"></path>
+
+    <path d="M 370,190 
+             C 370,145 270,145 270,250 
+             C 270,355 370,355 370,310 
+             L 370,250 
+             L 310,250"></path>
+  </g></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1292)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(1.8,0,0,1.8,50,50)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500"><defs>
+    <linearGradient id="tech-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff"></stop>   <stop offset="50%" stop-color="#3b82f6"></stop>  <stop offset="100%" stop-color="#a855f7"></stop> </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  <clipPath id="SvgjsClipPath1292"><rect width="1000" height="1000" x="0" y="0" rx="250" ry="250"></rect></clipPath></defs><g fill="none" stroke="url(#tech-gradient)" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" transform=" translate(-125,-125) scale(1.5)">
+    <path d="M 230,190 
+             C 230,145 130,145 130,200 
+             C 130,250 230,250 230,300 
+             C 230,355 130,355 130,310"></path>
+
+    <path d="M 370,190 
+             C 370,145 270,145 270,250 
+             C 270,355 370,355 370,310 
+             L 370,250 
+             L 310,250"></path>
+  </g></svg></g></g></svg></g></svg>
